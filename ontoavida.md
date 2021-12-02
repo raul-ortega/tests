@@ -14,7 +14,6 @@ products:
 dependencies:
   - id: fbcv
   - id: gsso
-  - id: ogg
   - id: stato
   - id: ro
   - id: ncit
